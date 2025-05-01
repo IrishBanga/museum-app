@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "next/babel"
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": "off"
+  }
+}
